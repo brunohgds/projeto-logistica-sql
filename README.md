@@ -89,7 +89,10 @@ Projeto_Logistica_SQL/
 │   └── 04_top_clientes_atraso.sql
 │
 └── assets/
-    └── modelo_dados.png
+    └── 01_volume_frete_transportadora.jpeg
+│   ├── 02_percentual_atraso.jpeg
+│   ├── 03_leadtime_mensal.jpeg
+│   └── 04_top_clientes_atraso.jpeg
 ```
 
 ---
