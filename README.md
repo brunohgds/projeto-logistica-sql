@@ -78,12 +78,18 @@ Análise combinando:
 # 📂 Estrutura do Projeto
 
 ```text
-queries/
+Projeto_Logistica_SQL/
 │
-├── 01_volume_frete_transportadora.sql
-├── 02_percentual_atraso.sql
-├── 03_leadtime_mensal.sql
-└── 04_top_clientes_atraso.sql
+├── README.md
+│
+├── queries/
+│   ├── 01_volume_frete_transportadora.sql
+│   ├── 02_percentual_atraso.sql
+│   ├── 03_leadtime_mensal.sql
+│   └── 04_top_clientes_atraso.sql
+│
+└── assets/
+    └── modelo_dados.png
 ```
 
 ---
