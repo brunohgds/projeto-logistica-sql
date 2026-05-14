@@ -21,7 +21,8 @@ Responder perguntas de negócio através de SQL analítico, utilizando:
 
 ## 1. Volume total de frete e média de distância por transportadora
 
-Análise do volume financeiro e eficiência operacional das transportadoras.
+Análise do volume financeiro e eficiência operacional das transportadoras.<img width="875" height="581" alt="01_volume_frete_transportadora" src="https://github.com/user-attachments/assets/592cfc34-34a4-41e5-84cb-d41c939f6419" />
+
 
 ---
 
