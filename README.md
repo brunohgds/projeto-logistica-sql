@@ -21,7 +21,8 @@ Responder perguntas de negócio através de SQL analítico, utilizando:
 
 ## 1. Volume total de frete e média de distância por transportadora
 
-Análise do volume financeiro e eficiência operacional das transportadoras.<img width="875" height="581" alt="01_volume_frete_transportadora" src="https://github.com/user-attachments/assets/592cfc34-34a4-41e5-84cb-d41c939f6419" />
+Análise do volume financeiro e eficiência operacional das transportadoras.
+<img width="875" height="581" alt="01_volume_frete_transportadora" src="https://github.com/user-attachments/assets/592cfc34-34a4-41e5-84cb-d41c939f6419" />
 
 
 ---
@@ -29,12 +30,14 @@ Análise do volume financeiro e eficiência operacional das transportadoras.<img
 ## 2. Percentual de entregas atrasadas por transportadora
 
 Cálculo do percentual de atrasos com filtros dinâmicos de período.
+<img width="1074" height="558" alt="02_percentual_atraso" src="https://github.com/user-attachments/assets/a732d5f9-42fa-4875-a683-960edeb0dd37" />
 
 ---
 
 ## 3. Lead Time médio mensal comparado ao mês anterior
 
 Uso de Window Functions (`LAG`) para comparação temporal de desempenho.
+<img width="1116" height="698" alt="03_leadtime_mensal" src="https://github.com/user-attachments/assets/f552c48f-51c0-4861-acbd-11d8fcfb3cda" />
 
 ---
 
@@ -45,6 +48,8 @@ Análise combinando:
 - agregações
 - filtros temporais
 - ranking
+
+<img width="748" height="647" alt="04_top_clientes_atraso" src="https://github.com/user-attachments/assets/5e5bb1ab-513b-4dbe-a0af-27c069b4e36a" />
 
 ---
 
